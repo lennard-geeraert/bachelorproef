@@ -1,33 +1,53 @@
-% Encoding: UTF-8
-@ARTICLE{Doll1954,
-  author = {Doll, Richard and Hill, A Bradford},
-  title = {The mortality of doctors in relation to their smoking habits: a preliminary
-	report},
-  journal = {British Medical Journal},
-  year = {1954},
-  volume = {328},
-  pages = {1529-1533},
-  number = {7455},
-  owner = {jbuy519},
-  timestamp = {2014.03.28}
+@Electronic{Wikipedia2022,
+  author  = {Wikipedia},
+  title   = {Cryptogeld},
+  url     = {https://nl.wikipedia.org/wiki/Cryptogeld},
+  date    = {2022-02-18},
+  urldate = {2021-10-13},
 }
 
-@BOOK{Moore2002,
-  title = {Introduction to the Practice of Statistics},
-  publisher = {W. H. Freeman},
-  year = {2002},
-  author = {Moore, David and McCabe, George},
-  owner = {jbuy519},
-  timestamp = {2014.01.28}
+@Electronic{Nakamoto2010,
+  author  = {Nakamoto, Satochi},
+  title   = {Post Satochi Nakamoto},
+  url     = {https://satoshi.nakamotoinstitute.org/posts/bitcointalk/119/},
+  date    = {2010-06-14},
+  urldate = {2021-10-13},
 }
 
-@BOOK{Smits2011,
-  title = {Onderzoek met SPSS en Excel},
-  publisher = {Pearson Education},
-  year = {2011},
-  author = {Smits, Johan and Edens, Ronald},
-  owner = {jbuy519},
-  timestamp = {2014.01.23}
+@Electronic{MarliDamiaoAbade2021,
+  author   = {Marli Damiao Abade, Nunes},
+  title    = {Automated Trading SystemsVSManual Tradingin Forex Exchange Market},
+  url      = {https://run.unl.pt/handle/10362/119886},
+  abstract = {In the recent decades, automated trading has been widely used in Forex and Money Markets,
+as well as in financial markets. This auto trading provided substantial benefits to transaction
+efficiency. Many trading robots have been created to substitute humans, capable of simulating
+trading strategies and continuously making profits. Nevertheless, programs cannot reproduce
+all human behaviour and most robots are over-sensitive, therefore, it is difficult to have the
+same results as human traders. The study focuses on evaluating the trading machines sensitivity
+and effectiveness. The economic markets can benefit from the machine in several ways, through
+continuous operation, increasing diversification, short/term trading opportunities and by
+forecasting opportunities e. g. currency price changes.
+The further investigation indicates that the majority of forex trading robots are profitable, in
+fact, there is a great tendency for curve-fitting or data-mining. There are some impressive robots
+out there; of course, these systems maintain an advantage and successfully manage risk. The
+best ones are more about position sizing and cutting losses quickly and less about high win
+rates. The greater the sensitivity the greater the trading opportunities, but this decreases the
+performance.
+This research will contain interviews with experts that will validate the study.},
+  date     = {2021-04},
+  file     = {:C\:/Users/lenna/bachelorproef/bronnen/Nunes2021.pdf:PDF},
+  urldate  = {2021-10-13},
+}
+
+@Electronic{Triple2021,
+  author   = {Triple},
+  title    = {Cryptocurrency across the world},
+  url      = {https://triple-a.io/crypto-ownership/},
+  abstract = {Cryptocurrency adoption is growing around the world. As a leading cryptocurrency payments company, we strive to offer key statistics to help businesses better understand the cryptocurrency market—how you can reach untapped markets and grow your business.
+
+As of 2021, we estimated global crypto ownership rates at an average of 3.9%, with over 300 million crypto users worldwide. And over 18,000 businesses are already accepting cryptocurrency payments.},
+  date     = {2021-01-01},
+  urldate  = {2021-10-13},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
