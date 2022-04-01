@@ -1,0 +1,191 @@
+@Electronic{Nakamoto2010,
+  author  = {Nakamoto, Satochi},
+  date    = {2010-06-14},
+  title   = {Post Satochi Nakamoto},
+  url     = {https://satoshi.nakamotoinstitute.org/posts/bitcointalk/119/},
+  urldate = {2021-10-13},
+}
+
+@Electronic{Triple2021,
+  author   = {Triple},
+  date     = {2021-01-01},
+  title    = {Cryptocurrency across the world},
+  url      = {https://triple-a.io/crypto-ownership/},
+  urldate  = {2021-10-13},
+  abstract = {Cryptocurrency adoption is growing around the world. As a leading cryptocurrency payments company, we strive to offer key statistics to help businesses better understand the cryptocurrency market—how you can reach untapped markets and grow your business.
+
+As of 2021, we estimated global crypto ownership rates at an average of 3.9%, with over 300 million crypto users worldwide. And over 18,000 businesses are already accepting cryptocurrency payments.},
+}
+
+@Article{Koutmos2020,
+  author       = {Koutmos, Dimitrios. & Kokker E, Thomas},
+  date         = {2020-08-10},
+  journaltitle = {Machine Learning Applications in Finance},
+  title        = {Cryptocurrency Trading Using Machine Learning},
+  abstract     = {We present a model for active trading based on reinforcement machine learning and
+apply this to five major cryptocurrencies in circulation. In relation to a buy-and-hold approach,
+we demonstrate how this model yields enhanced risk-adjusted returns and serves to reduce downside
+risk. These findings hold when accounting for actual transaction costs. We conclude that real-world
+portfolio management application of the model is viable, yet, performance can vary based on how it
+is calibrated in test samples.},
+  file         = {:C\:/Users/lenna/bachelorproef/bachproef-sjablonen/bachproef-latex-sjabloon-master/bronnen/KokerAndKoutmos2020.pdf:PDF},
+}
+
+@Thesis{Singh2019,
+  author      = {Singh, Chattan},
+  date        = {2019-05},
+  institution = {CALIFORNIA STATE UNIVERSITY, NORTHRIDGE},
+  title       = {Trading bot},
+  type        = {mathesis},
+  file        = {:C\:/Users/lenna/bachelorproef/bachproef-sjablonen/bachproef-latex-sjabloon-master/bronnen/Singh-Chattan-thesis-2019.pdf:PDF},
+}
+
+@PhdThesis{Han2018,
+  author    = {Han, Eric},
+  date      = {2018-12-14},
+  title     = {Intra-exchange Cryptocurrency Arbitrage Bot},
+  doi       = {10.31979/etd.6xze-y9xu},
+  file      = {:C\:/Users/lenna/bachelorproef/bachproef-sjablonen/bachproef-latex-sjabloon-master/bronnen/Intra-exchange Cryptocurrency Arbitrage Bot.pdf:PDF},
+  publisher = {San Jose State University Library},
+}
+
+@Thesis{Glucksmann2019,
+  author      = {Glucksmann, Alain},
+  date        = {2019-06-13},
+  institution = {ETH zurich},
+  title       = {Backtesting of Trading Strategiesfor Bitcoin},
+  type        = {mathesis},
+  file        = {:C\:/Users/lenna/bachelorproef/bachproef-sjablonen/bachproef-latex-sjabloon-master/bronnen/Master_Thesis_Glücksmann_13June2019.pdf:PDF},
+  keywords    = {Backtesting, bitcoin},
+}
+
+@Electronic{George2022,
+  author  = {George, Benedict},
+  date    = {2022-01-19},
+  title   = {What is KYC and what does it matter for crypto},
+  url     = {https://www.coindesk.com/learn/what-is-kyc-and-why-does-it-matter-for-crypto/#:~:text=Jan 19, 2022,use its product or platform.},
+  urldate = {2022-03-13},
+}
+
+@Electronic{Wallets2022,
+  author  = {Wallets},
+  date    = {2022},
+  title   = {Wat is een ERC20 token precies?},
+  url     = {https://www.wallets.nl/erc20-tokens/},
+  urldate = {2022-03-13},
+}
+
+@Electronic{Withdrawalfees,
+  author  = {Withdrawalfees},
+  title   = {Withdrawalfees},
+  url     = {https://withdrawalfees.com/},
+  urldate = {2022-03-13},
+}
+
+@Thesis{Andersson2021,
+  author      = {Andersson, Simon & Haggstrom, Jakob & Icimpaye, Urlich & Lindstedt, Hjalmar},
+  date        = {06-2021},
+  institution = {Uppsala University},
+  title       = {Crypto ProximaAn analysis of autonomous Bitcoin tradin},
+  type        = {mathesis},
+  file        = {:C\:/Users/lenna/bachelorproef/bachproef-sjablonen/bachproef-latex-sjabloon-master/bronnen/crypto_proxima.pdf:PDF},
+}
+
+@Thesis{Alshibani2019,
+  author      = {Alshibani, Ibrahim},
+  date        = {25-07-2019},
+  institution = {Albert-Ludwigs-University Freiburg},
+  title       = {A Cryptocurrency Evaluationand Trading System},
+  type        = {mathesis},
+  file        = {:C\:/Users/lenna/bachelorproef/bachproef-sjablonen/bachproef-latex-sjabloon-master/bronnen/Master_Ibrahim_Alshibani_2019.pdf:PDF;:C\:/Users/lenna/bachelorproef/bachproef-sjablonen/bachproef-latex-sjabloon-master/bronnen/Master_Ibrahim_Alshibani_2019_presentation.pdf:PDF},
+}
+
+@Article{Fang2022,
+  author       = {Fan Fang and Carmine Ventre and Michail Basios and Leslie Kanthan and David Martinez-Rego and Fan Wu and Lingbo Li},
+  date         = {2022-02},
+  journaltitle = {Financial Innovation},
+  title        = {Cryptocurrency trading: a comprehensive survey},
+  doi          = {10.1186/s40854-021-00321-6},
+  number       = {1},
+  volume       = {8},
+  file         = {:C\:/Users/lenna/bachelorproef/bachproef-sjablonen/bachproef-latex-sjabloon-master/bronnen/crypto_trading_comprehensive_survey.pdf:PDF},
+  publisher    = {Springer Science and Business Media {LLC}},
+}
+
+@Thesis{Sesek2018,
+  author = {Kristjan Sesek},
+  date   = {04-2018},
+  title  = {Trading strategies for cryptocurrency markets},
+  type   = {mathesis},
+  file   = {:C\:/Users/lenna/bachelorproef/bachproef-sjablonen/bachproef-latex-sjabloon-master/bronnen/trading_strategies_for_crypto.pdf:PDF},
+}
+
+@Article{Sattarov2020,
+  author       = {Otabek Sattarov and Azamjon Muminov and Cheol Won Lee and Hyun Kyu Kang and Ryumduck Oh and Junho Ahn and Hyung Jun Oh and Heung Seok Jeon},
+  date         = {2020-02},
+  journaltitle = {Applied Sciences},
+  title        = {Recommending Cryptocurrency Trading Points with Deep Reinforcement Learning Approach},
+  doi          = {10.3390/app10041506},
+  number       = {4},
+  pages        = {1506},
+  volume       = {10},
+  file         = {:C\:/Users/lenna/bachelorproef/bachproef-sjablonen/bachproef-latex-sjabloon-master/bronnen/applsci-10-01506-v2.pdf:PDF},
+  publisher    = {{MDPI} {AG}},
+}
+
+@Electronic{Wallaker2021,
+  author       = {Wallaker, Matthew},
+  date         = {2021-12-12},
+  title        = {The 7 Key Factors Influencing Cryptocurrency Value},
+  url          = {https://www.makeuseof.com/factors-influencing-the-cryptocurrency-value/},
+  organization = {MUO},
+  urldate      = {2022-03-24},
+}
+
+@Electronic{Saurel2019,
+  author       = {Saurel, Sylvain},
+  date         = {2019-07-30},
+  title        = {Top 5 Factors Influencing Bitcoin Price},
+  url          = {https://medium.com/swlh/top-5-factors-influencing-bitcoin-price-441cd9479bba},
+  organization = {The Startup},
+  urldate      = {2022-03-24},
+}
+
+@Electronic{Duursma2021,
+  author  = {Duursma, Jarno},
+  date    = {2021},
+  title   = {Wat is NFT?},
+  url     = {https://jarnoduursma.nl/blog/wat-is-nft/#:~:text=Een NFT is een Non,blockchain (een openbare database).},
+  urldate = {2022-03-29},
+}
+
+@Electronic{BTC.com2022,
+  author  = {BTC.com},
+  date    = {2022-03-31},
+  title   = {Bitcoin block explorer},
+  url     = {https://btc.com/en/btc},
+  urldate = {2022-03-31},
+}
+
+@Electronic{Tapscott2020,
+  author  = {Tapscott, Don},
+  date    = {2020},
+  editor  = {TED},
+  title   = {How the blockchain is changing money and business},
+  url     = {https://www.youtube.com/watch?v=Pl8OlkkwRpc&list=PLlufhC3O4F0PgyarDDeRHr6pLUMAa97hk&index=28},
+  urldate = {2022-03-31},
+}
+
+@Electronic{2022,
+  author  = {Crypto insiders},
+  date    = {2022},
+  title   = {Hoeveel bitcoins zijn er},
+  url     = {https://www.crypto-insiders.nl/academy/hoeveel-bitcoins-zijn-er/#:~:text=Op het moment van schrijven zijn er in totaal al,miljoen bitcoins in omloop zijn.},
+  urldate = {2022-03-31},
+}
+
+@Electronic{Coinbase2022,
+  author  = {Coinbase},
+  date    = {2022-03-31},
+  title   = {What is "proof of work" or "proof of stake"?},
+  url     = {https://www.coinbase.com/nl/learn/crypto-basics/what-is-proof-of-work-

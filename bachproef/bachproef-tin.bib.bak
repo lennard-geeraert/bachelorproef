@@ -40,7 +40,7 @@ is calibrated in test samples.},
   file        = {:C\:/Users/lenna/bachelorproef/bachproef-sjablonen/bachproef-latex-sjabloon-master/bronnen/Singh-Chattan-thesis-2019.pdf:PDF},
 }
 
-@PhdThesis{Hana,
+@PhdThesis{Han2018,
   author    = {Han, Eric},
   date      = {2018-12-14},
   title     = {Intra-exchange Cryptocurrency Arbitrage Bot},
@@ -149,6 +149,72 @@ is calibrated in test samples.},
   url          = {https://medium.com/swlh/top-5-factors-influencing-bitcoin-price-441cd9479bba},
   organization = {The Startup},
   urldate      = {2022-03-24},
+}
+
+@Electronic{Duursma2021,
+  author  = {Duursma, Jarno},
+  date    = {2021},
+  title   = {Wat is NFT?},
+  url     = {https://jarnoduursma.nl/blog/wat-is-nft/#:~:text=Een NFT is een Non,blockchain (een openbare database).},
+  urldate = {2022-03-29},
+}
+
+@Electronic{BTC.com2022,
+  author  = {BTC.com},
+  date    = {2022-03-31},
+  title   = {Bitcoin block explorer},
+  url     = {https://btc.com/en/btc},
+  urldate = {2022-03-31},
+}
+
+@Electronic{Tapscott2020,
+  author  = {Tapscott, Don},
+  date    = {2020},
+  editor  = {TED},
+  title   = {How the blockchain is changing money and business},
+  url     = {https://www.youtube.com/watch?v=Pl8OlkkwRpc&list=PLlufhC3O4F0PgyarDDeRHr6pLUMAa97hk&index=28},
+  urldate = {2022-03-31},
+}
+
+@Electronic{2022,
+  author  = {Crypto insiders},
+  date    = {2022},
+  title   = {Hoeveel bitcoins zijn er},
+  url     = {https://www.crypto-insiders.nl/academy/hoeveel-bitcoins-zijn-er/#:~:text=Op het moment van schrijven zijn er in totaal al,miljoen bitcoins in omloop zijn.},
+  urldate = {2022-03-31},
+}
+
+@Electronic{Coinbase2022,
+  author  = {Coinbase},
+  date    = {2022-03-31},
+  title   = {What is "proof of work" or "proof of stake"?},
+  url     = {https://www.coinbase.com/nl/learn/crypto-basics/what-is-proof-of-work-or-proof-of-stake#:~:text=There are two major consensus,other (generally newer) cryptocurrencies.},
+  urldate = {2022-03-31},
+}
+
+@Electronic{DeBest2022,
+  author  = {De Best, Raynor},
+  date    = {2022-03-22},
+  editor  = {statista},
+  title   = {Number of cryptocurrencies worldwide from 2013 to February 2022},
+  url     = {https://www.statista.com/statistics/863917/number-crypto-coins-tokens/},
+  urldate = {2022-03-31},
+}
+
+@Electronic{TheTradesNews2021,
+  author  = {TheTradesNews},
+  date    = {2021-07-07},
+  title   = {Hedge funds rely on algos to trade majority of portfolios in market stress},
+  url     = {https://www.thetradenews.com/hedge-funds-rely-on-algos-to-trade-majority-of-portfolios-in-market-stress/},
+  urldate = {2022-03-31},
+}
+
+@Electronic{Ethereum2022,
+  author  = {Ethereum},
+  date    = {2022-04-01},
+  title   = {Wat is Ethereum?},
+  url     = {https://ethereum.org/nl/what-is-ethereum/#:~:text=Ethereum is begonnen in 2015,ETH heeft veel dezelfde functies.},
+  urldate = {2022-04-01},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
